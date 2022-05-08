@@ -1,0 +1,3 @@
+[submodule "solax-graphite-exporter"]
+	path = solax-graphite-exporter
+	url = https://github.com/wapophis/solax-graphite-exporter
